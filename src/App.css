@@ -1,0 +1,45 @@
+.header{
+  background-color:#74b6d4;
+  border-radius: 20px;
+}
+.header th{
+  border-radius: 3px;
+}
+.button{
+  border: none;
+  border-radius: 6px;
+  background-color:rgba(68, 175, 221, 0.467);
+
+} 
+.button:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.wrapper{
+  background-color: #bedfe3;
+  align-items: center;
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+}
+select{
+  outline: none;
+  border-radius: 10px;
+  position: absolute;
+  margin-left: 207.4px;
+}
+.onWrap{
+  display: flex;
+  position: relative;
+}
+.Searcher{
+  width: 270px;
+  outline: none;
+  padding-left: 10px;
+  border-radius: 10px;
+  border:1px solid #274414 ;
+}
+tr td{
+  border-bottom:  1px solid #274414;
+}
