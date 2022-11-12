@@ -22,12 +22,16 @@
   display: flex;
   justify-content:center;
   flex-direction: column;
+  width: 500px;
+  height: 400px;
 }
 select{
   outline: none;
   border-radius: 10px;
   position: absolute;
-  margin-left: 207.4px;
+  margin-left: 243.7px;
+  width: 40px;
+  background-color: #bedfe3;
 }
 .onWrap{
   display: flex;
@@ -41,5 +45,6 @@ select{
   border:1px solid #274414 ;
 }
 tr td{
-  border-bottom:  1px solid #274414;
+  border-bottom:  2px solid #274414;
+  border-collapse: collapse;
 }

@@ -29,6 +29,7 @@ return(
         <option value="name">Name</option>
         <option value="surname">Surname</option>
         <option value="id">ID</option>
+        <option value="type">Kind</option>
       </select>
    </div>
  <table>
